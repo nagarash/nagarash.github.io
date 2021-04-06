@@ -1,7 +1,6 @@
 title: "Remote theme example"
 remote_theme: mmistakes/minimal-mistakes
-color_scheme: "dark"
-search_enabled: false
+minimal_mistakes_skin: dirt
 plugins:
   - jekyll-include-cache
 
