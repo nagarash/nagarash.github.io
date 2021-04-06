@@ -1,4 +1,5 @@
+title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
-title: this is test page
-description: i will post my ML notes here
+color_scheme: "dark"
+search_enabled: false
 
